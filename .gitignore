@@ -2,7 +2,7 @@
 
 # dependencies
 **/node_modules/*
-**/dist/*
+sites/*/dist/*
 /.pnp
 .pnp.js
 /dist_docs

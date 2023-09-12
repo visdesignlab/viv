@@ -27,7 +27,7 @@
   "dependencies": {
     "@vivjs/types": "workspace:*",
     "fast-xml-parser": "^3.16.0",
-    "geotiff": "^2.0.5",
+    "geotiff": "github:ucscXena/geotiff.js#ucsc-beta",
     "lzw-tiff-decoder": "^0.1.1",
     "quickselect": "^2.0.0",
     "zarr": "^0.5.1"
