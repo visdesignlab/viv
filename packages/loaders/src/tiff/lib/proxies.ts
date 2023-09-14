@@ -1,4 +1,4 @@
-import type { GeoTIFF } from 'geotiff';
+import type { GeoTIFF } from 'ucsc-xena-geotiff';
 
 const VIV_PROXY_KEY = '__viv';
 const OFFSETS_PROXY_KEY = `${VIV_PROXY_KEY}-offsets` as const;

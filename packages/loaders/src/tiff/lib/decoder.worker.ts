@@ -1,4 +1,4 @@
-import { getDecoder, addDecoder } from 'geotiff';
+import { getDecoder, addDecoder } from 'ucsc-xena-geotiff';
 import LZWDecoder from './lzw-decoder';
 
 addDecoder(5, () => LZWDecoder);

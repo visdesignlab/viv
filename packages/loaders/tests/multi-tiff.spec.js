@@ -1,5 +1,5 @@
 import test from 'tape';
-import { fromFile } from 'geotiff';
+import { fromFile } from 'ucsc-xena-geotiff';
 import { load } from '../src/tiff/multi-tiff';
 import { loadMultiTiff, FILE_PREFIX } from '../src/tiff';
 

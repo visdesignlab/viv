@@ -1,16 +1,16 @@
 {
-  "name": "@vivjs/monorepo",
+  "name": "vdl-viv",
   "version": "0.13.7",
   "author": "Ilan Gold",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hms-dbmi/viv.git"
+    "url": "git+https://github.com/visdesignlab/viv.git"
   },
   "bugs": {
-    "url": "https://github.com/hms-dbmi/viv/issues"
+    "url": "https://github.com/visdesignlab/viv/issues"
   },
-  "homepage": "https://github.com/hms-dbmi/viv#readme",
+  "homepage": "https://github.com/visdesignlab/viv#readme",
   "scripts": {
     "dev": "pnpm -r dev",
     "build": "pnpm -r --parallel build",

@@ -1,5 +1,5 @@
-import { fromUrl, fromBlob, fromFile, addDecoder } from 'geotiff';
-import type { GeoTIFF, Pool } from 'geotiff';
+import { fromUrl, fromBlob, fromFile, addDecoder } from 'ucsc-xena-geotiff';
+import type { GeoTIFF, Pool } from 'ucsc-xena-geotiff';
 
 import { createOffsetsProxy, checkProxies } from './lib/proxies';
 import LZWDecoder from './lib/lzw-decoder';

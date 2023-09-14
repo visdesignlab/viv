@@ -1,4 +1,4 @@
-import type { GeoTIFF } from 'geotiff';
+import type { GeoTIFF } from 'ucsc-xena-geotiff';
 import { fromString } from '../omexml';
 
 import TiffPixelSource from './pixel-source';

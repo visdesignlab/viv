@@ -1,5 +1,5 @@
 import { decompress } from 'lzw-tiff-decoder';
-import { BaseDecoder } from 'geotiff';
+import { BaseDecoder } from 'ucsc-xena-geotiff';
 
 interface FileDirectory {
   TileWidth?: number;

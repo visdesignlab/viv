@@ -1,4 +1,4 @@
-import type { GeoTIFFImage } from 'geotiff';
+import type { GeoTIFFImage } from 'ucsc-xena-geotiff';
 import type { TypedArray } from 'zarr';
 import { getImageSize, isInterleaved, SIGNAL_ABORTED } from '../utils';
 

@@ -1,4 +1,4 @@
-import type { GeoTIFFImage } from 'geotiff';
+import type { GeoTIFFImage } from 'ucsc-xena-geotiff';
 
 import TiffPixelSource from './pixel-source';
 import { guessTiffTileSize } from '../utils';

@@ -1,4 +1,4 @@
-import type { GeoTIFFImage } from 'geotiff';
+import type { GeoTIFFImage } from 'ucsc-xena-geotiff';
 import quickselect from 'quickselect';
 import type { OMEXML } from './omexml';
 import type { TypedArray } from 'zarr';

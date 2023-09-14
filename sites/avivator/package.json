@@ -13,7 +13,7 @@
     "@material-ui/icons": "^4.9.1",
     "@material-ui/lab": "^4.0.0-alpha.56",
     "@math.gl/core": "^3.5.7",
-    "geotiff": "github:ucscXena/geotiff.js#ucsc-beta",
+    "ucsc-xena-geotiff": "^2.0.5-2",
     "lodash": "^4.17.21",
     "react": "^16.8.0 || ^17.0.0",
     "react-dom": "^16.8.0 || ^17.0.0",

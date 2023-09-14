@@ -1,4 +1,4 @@
-import type { GeoTIFFImage } from 'geotiff';
+import type { GeoTIFFImage } from 'ucsc-xena-geotiff';
 import { getDims, getLabels, DTYPE_LOOKUP } from '../../utils';
 import type { OMEXML, UnitsLength, DimensionOrder } from '../../omexml';
 import type { MultiTiffImage } from '../multi-tiff';

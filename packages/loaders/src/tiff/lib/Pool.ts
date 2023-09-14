@@ -1,4 +1,4 @@
-import { Pool } from 'geotiff';
+import { Pool } from 'ucsc-xena-geotiff';
 
 // https://developer.mozilla.org/en-US/docs/Web/API/NavigatorConcurrentHardware/hardwareConcurrency
 // We need to give a different way of getting this for safari, so 4 is probably a safe bet

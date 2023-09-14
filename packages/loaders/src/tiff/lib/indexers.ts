@@ -1,5 +1,5 @@
 /* eslint-disable no-use-before-define */
-import { GeoTIFFImage, GeoTIFF } from 'geotiff';
+import { GeoTIFFImage, GeoTIFF } from 'ucsc-xena-geotiff';
 import type { OmeTiffSelection } from './utils';
 import type { OMEXML } from '../../omexml';
 import type { MultiTiffImage } from '../multi-tiff';
